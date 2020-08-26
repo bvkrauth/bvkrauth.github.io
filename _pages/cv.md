@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,7 +17,10 @@ Education
 
 Employment
 ======
-* 1999-present: Associate Professor of Economics, Simon Fraser University
+* 2006-present: Associate Professor of Economics, Simon Fraser University
+  * Acting Chair, 2020-21
+  * Chair, 2016-2019
+* 1999-2006: Associate Professor of Economics, Simon Fraser University
 
 Publications
 ======
@@ -39,4 +42,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* SFU faculty Senate, 2019-present
