@@ -3,7 +3,7 @@ title: "Non-standard English dialects and the effect of supplementary funding on
 collection: publications
 permalink: /publication/nsed
 excerpt: "This article provides a non-technical summary for a wider audience of the research results
-reported in our 2014 CJE paper."
+reported in our 2014 CPP paper."
 date: 2011-06-01
 venue: 'Canadian Journal of Speech-Language Pathology and Audiology'
 paperurl: 'https://ldatschool.ca/wp-content/uploads/2015/06/CJSLPA_2011_Vol_35_No_02_Summer.pdf#page=90'
