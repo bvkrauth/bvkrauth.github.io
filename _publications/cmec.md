@@ -6,6 +6,6 @@ excerpt: "This policy report was prepared for the Council of Ministers of Educat
 date: 2012-01-01
 venue: 'Council of Ministers of Education, Canada'
 paperurl: 'https://www.cmec.ca/Publications/Lists/Publications/Attachments/295/Key-Policy-Issues-in-Aboriginal-Education_EN.pdf'
-citation: 'Friesen, Jane and Brian Krauth (2012). &quot;Key Policy Issues in Aboriginal Education: An Evidence-based Approach.&quot; Council of Minsters of Education, Canada.'
+citation: 'Friesen, Jane and Brian Krauth (2012). <it>Key Policy Issues in Aboriginal Education: An Evidence-based Approach.</it> Council of Minsters of Education, Canada.'
 ---
 This policy report was prepared for the Council of Ministers of Education, Canada.
