@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Philosophy/Mathematical Economic Analysis, Rice University, 1992
-* M.A. in Economics, University of Wisconsin-Madison, 1995
 * Ph.D in Economics, University of Wisconsin-Madison, 1999
+* M.A. in Economics, University of Wisconsin-Madison, 1995
+* B.A. in Philosophy/Mathematical Economic Analysis, Rice University, 1992
 
 Employment
 ======
@@ -22,9 +22,9 @@ Employment
   * Chair, 2016-2019
 * 1999-2006: Assistant Professor of Economics, Simon Fraser University
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
