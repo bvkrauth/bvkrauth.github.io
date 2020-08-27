@@ -13,7 +13,7 @@ and retirement planning demonstrate the implications of these results for applie
 date: 2006-05-01
 venue: 'Canadian Journal of Economics'
 paperurl: 'https://doi.org/10.1111/j.0008-4085.2006.00353.x'
-citation: 'Brian Krauth (2006). &quot;Social interactions in small groups.&quot; <i>Canadian Journal of Economics</i>. 39(2).'
+citation: 'Krauth, Brian (2006). &quot;Social interactions in small groups.&quot; <i>Canadian Journal of Economics</i>. 39(2).'
 ---
 In the well-known ‘critical mass’ model of social interactions, aggregate
 behaviour exhibits multiple equilibria if the influence of group behaviour on individual
