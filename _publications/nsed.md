@@ -1,5 +1,5 @@
 ---
-title: "Non-Standard English Dialects and the Effect of Supplementary Funding on Educational Achievement"
+title: "Non-standard English dialects and the effect of supplementary funding on educational achievement"
 collection: publications
 permalink: /publication/nsed
 excerpt: "British Columbia provides school districts with supplementary funding to support the language
@@ -12,7 +12,9 @@ the reading scores of the average Aboriginal student."
 date: 2011-06-01
 venue: 'Canadian Journal of Speech-Language Pathology and Audiology'
 paperurl: 'https://ldatschool.ca/wp-content/uploads/2015/06/CJSLPA_2011_Vol_35_No_02_Summer.pdf#page=90'
-citation: 'Battisti, Michele, Mark Campbell, Jane Friesen and Brian Krauth (2014). &quot;Non-Standard English Dialects and the Effect of Supplementary Funding on Educational Achievement.&quot; <i>Canadian Journal of Speech-Language Pathology and Audiology</i>. 35(2).'
+citation: 'Battisti, Michele, Mark Campbell, Jane Friesen and Brian Krauth (2014). &quot;Non-standard English
+dialects and the effect of supplementary funding on educational achievement.&quot; 
+<i>Canadian Journal of Speech-Language Pathology and Audiology</i>. 35(2).'
 ---
 British Columbia provides school districts with supplementary funding to support the language
 development of students who speak a non-standard English dialect. Many of the students who
