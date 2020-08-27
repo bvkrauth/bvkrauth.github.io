@@ -13,7 +13,7 @@ This framework is then used to clarify identification and interpretation of
 commonly-used peer effect models and to suggest avenues for improving upon them."
 date: 2020-08-01
 venue: 'Working paper'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://bvkrauth.github.io/files/peertreat.pdf'
 citation: 'Krauth, Brian (2020). &quot;Peers as treatments.&quot; Working paper, Simon Fraser University.'
 ---
 Models of social interactions are often estimated under the strong
@@ -26,4 +26,4 @@ regressions can be interpreted as characterizing treatment effect heterogeneity.
 This framework is then used to clarify identification and interpretation of
 commonly-used peer effect models and to suggest avenues for improving upon them.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://bvkrauth.github.io/files/peertreat.pdf)
