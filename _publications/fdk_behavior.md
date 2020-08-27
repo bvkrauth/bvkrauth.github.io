@@ -13,7 +13,6 @@ at home, FDK reduces child hyperactivity and peer relationship problems, improve
 parents’ mental health and increases employment and hours."
 date: 2018-03-01
 venue: 'Working paper'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: "Friesen, Jane, Brian Krauth, and Reza Sattari (2018). &quot;The effect of universal full-day Kindergarten on children’s behavior.&quot; Working paper, Simon Fraser University."
 ---
 We exploit the staggered rollout of universal full-day Kindergarten (FDK) to 
@@ -26,4 +25,4 @@ and family characteristics, with one exception. In families who do not speak Eng
 at home, FDK reduces child hyperactivity and peer relationship problems, improves 
 parents’ mental health and increases employment and hours. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This paper is not available online, please email me at bkrauth@sfu.ca if you would like a copy.
