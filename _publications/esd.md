@@ -1,5 +1,5 @@
 ---
-title: "English as a Second Dialect Policy and Achievement of Aboriginal Students in British Columbia"
+title: "English as a Second Dialect policy and achievement of Aboriginal students in British Columbia"
 collection: publications
 permalink: /publication/esd
 excerpt: "Since the 1980s, the BC Ministry of Education has offered funding to support the language
@@ -12,7 +12,7 @@ a sizable positive effect of ESD on grade seven reading achievement among Aborig
 date: 2014-06-01
 venue: 'Canadian Public Policy'
 paperurl: 'https://doi.org/10.3138/cpp.2012-093'
-citation: 'Battisti, Michele, Jane Friesen and Brian Krauth (2014). &quot;English as a Second Dialect Policy and Achievement of Aboriginal Students in British Columbia.&quot; <i>Canadian Public Policy</i>. 40(2).'
+citation: 'Battisti, Michele, Jane Friesen and Brian Krauth (2014). &quot;English as a Second Dialect policy and achievement of Aboriginal Students in British Columbia.&quot; <i>Canadian Public Policy</i>. 40(2).'
 ---
 Since the 1980s, the BC Ministry of Education has offered funding to support the language
 development of students who speak non-standard dialects of English. In practice, the
