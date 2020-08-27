@@ -11,8 +11,10 @@ author_profile: true
 
 ## Working Papers
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## Publications
