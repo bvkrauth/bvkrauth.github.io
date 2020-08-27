@@ -1,5 +1,5 @@
 ---
-title: "A cynamic model of job networking and persistent inequality"
+title: "A dynamic model of job networking and persistent inequality"
 collection: publications
 permalink: /publication/dynamic2
 excerpt: "Although it rarely appears in economic models, job networking is a common feature of
@@ -12,7 +12,7 @@ highly skilled or motivated individuals face severe employment difficulties."
 date: 2003-01-01
 venue: 'Heterogenous Agents, Interactions and Economic Performance'
 paperurl: 'https://doi.org/10.1007/978-3-642-55651-7_12'
-citation: 'Krauth, Brian (2003). &quot;A Dynamic Model of Job Networking and Persistent Inequality.&quot; In 
+citation: 'Krauth, Brian (2003). &quot;A dynamic model of job networking and persistent inequality.&quot; In 
  Cowan R., Jonard N. (eds) <i>Heterogenous Agents, Interactions and Economic Performance, Lecture Notes in Economics and Mathematical Systems</i>, 
  vol 521. Springer, Berlin, Heidelberg.'
 ---
