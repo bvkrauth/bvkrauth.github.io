@@ -22,8 +22,4 @@ citation: 'Krauth, Brian (2005). &quot;Peer effects and selection effects on smo
  
  JEL classification: C35, I12
 
-[DOI link](https://doi.org/10.1111/j.0008-4085.2005.00300.x)
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Krauth, Brian (2005). &quot;Peer effects and selection effects on smoking among Canadian youth.&quot; <i>Canadian Journal of Economics</i>. 38(3).
