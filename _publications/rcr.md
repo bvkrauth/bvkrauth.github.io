@@ -1,5 +1,5 @@
 ---
-title: "Bounding a linear causal effect Using relative correlation restrictions"
+title: "Bounding a linear causal effect using relative correlation restrictions"
 collection: publications
 permalink: /publication/rcr
 excerpt: "This paper describes and implements a simple partial solution to the most common problem
