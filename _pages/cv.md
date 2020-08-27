@@ -20,7 +20,7 @@ Employment
 * 2006-present: Associate Professor of Economics, Simon Fraser University
   * Acting Chair, 2020-21
   * Chair, 2016-2019
-* 1999-2006: Associate Professor of Economics, Simon Fraser University
+* 1999-2006: Assistant Professor of Economics, Simon Fraser University
 
 Publications
 ======
