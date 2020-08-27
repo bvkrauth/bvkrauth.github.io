@@ -11,13 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-Talks
+## Working Papers
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
 
-Publications
+## Publications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
