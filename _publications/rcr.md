@@ -1,5 +1,5 @@
 ---
-title: "Bounding a Linear Causal Effect Using Relative Correlation Restrictions"
+title: "Bounding a linear causal effect Using relative correlation restrictions"
 collection: publications
 permalink: /publication/rcr
 excerpt: "This paper describes and implements a simple partial solution to the most common problem
@@ -17,7 +17,7 @@ data."
 date: 2016-01-01
 venue: 'Journal of Econometric Methods'
 paperurl: 'https://doi.org/10.1515/jem-2013-0013'
-citation: 'Krauth, Brian (2016). &quot;Bounding a Linear Causal Effect Using Relative Correlation Restrictions.&quot; <i>Journal of Econometric Methods</i>. 5(1).'
+citation: 'Krauth, Brian (2016). &quot;Bounding a linear causal effect using relative correlation restrictions.&quot; <i>Journal of Econometric Methods</i>. 5(1).'
 ---
 This paper describes and implements a simple partial solution to the most common problem
 in applied microeconometrics: estimating a linear causal effect with a potentially endogenous
