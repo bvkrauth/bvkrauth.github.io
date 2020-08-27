@@ -1,5 +1,5 @@
 ---
-title: "Disabled Peers and Academic Achievement"
+title: "Disabled peers and academic achievement"
 collection: publications
 permalink: /publication/disabled_peers
 excerpt: "We use data on students in grades 4–7 in the Canadian province of British Columbia to
@@ -14,7 +14,7 @@ other disabilities is also small and statistically insignificant but varies in s
 date: 2011-06-01
 venue: 'Education Finance and Policy'
 paperurl: 'https://doi.org/10.1162/EDFP_a_00003'
-citation: 'Hickey, Ross, Jane Friesen and Brian Krauth (2011). &quot;Disabled Peers and Academic Achievement.&quot; <i>Education Finance and Policy</i>. 5(3).'
+citation: 'Hickey, Ross, Jane Friesen and Brian Krauth (2011). &quot;Disabled peers and academic achievement.&quot; <i>Education Finance and Policy</i>. 5(3).'
 ---
 We use data on students in grades 4–7 in the Canadian province of British Columbia to
 investigate the effect of having disabled peers on value-added exam outcomes. Longitudinal
