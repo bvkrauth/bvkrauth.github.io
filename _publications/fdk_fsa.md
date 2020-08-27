@@ -12,7 +12,6 @@ small. The effect is substantially larger among students who speak English as a 
 language, a result that is consistent with prior findings."
 date: 2020-06-01
 venue: 'Working paper'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Friesen, Jane, Brian Krauth, and Ricardo Meilman Cohn (2020). &quot;The effect of full-day Kindergarten on student achievement.&quot; Working paper, Simon Fraser University.'
 ---
 We estimate the effect of introducing universal full-day Kindergarten (FDK) on subsequent
@@ -24,4 +23,4 @@ FDK on achievement are mostly positive, occasionally statistically significant, 
 small. The effect is substantially larger among students who speak English as a second
 language, a result that is consistent with prior findings.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+This paper is not available online, please email me at bkrauth@sfu.ca if you would like a copy.
