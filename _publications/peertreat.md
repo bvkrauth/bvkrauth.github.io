@@ -25,5 +25,3 @@ an unknown treatment effect. In this framework, conventional peer effect
 regressions can be interpreted as characterizing treatment effect heterogeneity.
 This framework is then used to clarify identification and interpretation of
 commonly-used peer effect models and to suggest avenues for improving upon them.
-
-[Download paper here](http://bvkrauth.github.io/files/peertreat.pdf)
