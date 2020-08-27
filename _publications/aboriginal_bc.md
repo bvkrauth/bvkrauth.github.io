@@ -9,7 +9,7 @@ test score gap to between‐school differences and half to within‐school diffe
 suggests that peer effects might explain some of these between‐school achievement differences. However, we find that peer
 effects associated with a greater proportion of Aboriginal peers, if anything, improve value‐added exam outcomes of
 Aboriginal students."
-date: 2010-10-18
+date: 2010-11-01
 venue: 'Canadian Journal of Economics'
 paperurl: 'https://doi.org/10.1111/j.1540-5982.2010.01614.x'
 citation: 'Friesen, Jane and Brian Krauth (2010). &quot;Sorting, peers, and achievement of Aboriginal students in British Columbia.&quot; <i>Canadian Journal of Economics</i>. 43(4).'
