@@ -21,5 +21,3 @@ as a Second Dialect (ESD) funding has grown to be an important source of supplem
 funding for Aboriginal students in many school districts. We exploit the staggered uptake
 of ESD funding by school districts to identify its effect on academic achievement. We find
 a sizable positive effect of ESD on grade seven reading achievement among Aboriginal students.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
