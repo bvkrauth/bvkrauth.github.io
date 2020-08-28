@@ -43,6 +43,5 @@ effect among immigrants and Canadian‐born visible minorities.
 Previous versions:
 
 [Octover 2019 (IZA Discussion Paper #12737](http://ftp.iza.org/dp12737.pdf)
+
 [February 2019 (ResearchGate}](https://www.doi.org/10.13140/RG.2.2.18624.79360)
-
-
