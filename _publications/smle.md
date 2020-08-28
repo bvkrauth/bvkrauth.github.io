@@ -27,5 +27,3 @@ place informative bounds on parameter values under much weaker restrictions. Mon
 results indicate that this estimator performs better than a reduced form approach in a wide
 variety of settings. A brief application to youth smoking demonstrates the method and suggests
 that previous studies dramatically overstate peer influence.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
