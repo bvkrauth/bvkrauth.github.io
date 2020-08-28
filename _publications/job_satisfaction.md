@@ -40,4 +40,9 @@ much stronger for workers who leave their job during the following year. Finally
 co‐worker pay has a positive effect on pay satisfaction among Canadian‐born whites, it has a negative
 effect among immigrants and Canadian‐born visible minorities.
 
-[Last working paper version](http://bvkrauth.github.io/files/Full_Draft_Second Revision_Final.pdf)
+Previous versions:
+
+[Octover 2019 (IZA Discussion Paper #12737](http://ftp.iza.org/dp12737.pdf)
+[February 2019 (ResearchGate}](https://www.doi.org/10.13140/RG.2.2.18624.79360)
+
+
