@@ -25,5 +25,3 @@ test score gains of nondisabled students in British Columbia. However, these eff
 statistically insignificant and are sufficiently small that they are unlikely to raise
 concerns about the placement of this group of disabled students. The effect of peers with
 other disabilities is also small and statistically insignificant but varies in sign.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
