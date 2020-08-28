@@ -25,5 +25,3 @@ the social group as well as its strength of influence. Brief applications on you
 and retirement planning demonstrate the implications of these results for applied work.
 
 JEL classification: Z13, D00
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
