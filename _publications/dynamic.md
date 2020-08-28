@@ -27,5 +27,3 @@ composition may cause large changes in employment, as suggested in Wilson's ‘s
 explanation for high unemployment rates among poor African-Americans. The model also supports
 Granovetter's ‘strength of weak ties’ hypothesis, which holds that acquaintances are more
 valuable job contacts than close friends.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
