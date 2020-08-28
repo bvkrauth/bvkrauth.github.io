@@ -12,6 +12,6 @@ Analysis of the economics of the labor market with particular emphasis on wage d
 
 [Course outline](http://www.sfu.ca/outlines.html?2019/fall/econ/381/d100)
 
-[Canvas page (requires login)](https://canvas.sfu.ca/courses/46228)
+[Canvas page (requires login)](https://canvas.sfu.ca/courses/46228/assignments/syllabus)
 
 Also taught in Spring 2012, Spring 2013, Spring 2015, Spring 2016, Spring 2017, and Spring 2019.
