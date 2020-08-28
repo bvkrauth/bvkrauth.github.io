@@ -21,3 +21,10 @@ test score gap to between‐school differences and half to within‐school diffe
 suggests that peer effects might explain some of these between‐school achievement differences. However, we find that peer
 effects associated with a greater proportion of Aboriginal peers, if anything, improve value‐added exam outcomes of
 Aboriginal students.
+
+Previous versions:
+
+[August 2009](http://www.sfu.ca/~friesen/aboriginal_peers.pdf)
+
+[April 2009](http://www.csls.ca/events/cea2009/friesen-krauth.pdf)
+
