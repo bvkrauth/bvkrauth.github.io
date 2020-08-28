@@ -27,3 +27,11 @@ slight net benefit to Chinese home-language students and a large net cost to Pun
 language students. The results are consistent with a simple peer effects mechanism in which
 the academic achievement or behavior of peers is much more important than their home 
 language.
+
+Previous versions:
+
+[January 2011](http://www.sfu.ca/~bkrauth/papers/enclaves_Jan2011.pdf)
+
+[November 2008](http://www.sfu.ca/~friesen/enclaves%20-%20version%20submitted%20to%20LabEcon.pdf)
+
+[September 2008 (Metropolis BC Working Paper #08-08)](https://www.researchgate.net/profile/Brian_Krauth/publication/238589645_Enclaves_peer_effects_and_student_learning_outcomes_in_British_Columbia/links/00b49535accb515b7d000000.pdf)
