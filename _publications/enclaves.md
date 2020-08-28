@@ -27,6 +27,3 @@ slight net benefit to Chinese home-language students and a large net cost to Pun
 language students. The results are consistent with a simple peer effects mechanism in which
 the academic achievement or behavior of peers is much more important than their home 
 language.
-
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
