@@ -23,5 +23,3 @@ find that the spillovers created by networking produce a highly nonlinear relati
 between community human capital and community employment rates. The model can be applied
 to understand the emergence of a low-employment “underclass” community in which even
 highly skilled or motivated individuals face severe employment difficulties.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
