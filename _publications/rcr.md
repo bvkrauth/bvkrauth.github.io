@@ -34,3 +34,18 @@ data.
 
 NOTE: The DOI link above is currently broken, but you can obtain the correct journal page
 [here](https://www.degruyter.com/view/journals/jem/5/1/article-p117.xml).
+
+Previous versions:
+
+[January 2015](http://www.sfu.ca/~bkrauth/papers/rcr.pdf)
+
+[August 2011 (SFU Working Paper)](http://summit.sfu.ca/item/10925)
+
+[October 2009 (seminar)](https://www.uvic.ca/socialsciences/economics/assets/docs/pastdept-3/krauth.pdf)
+
+[September 2007 (ResearchGate)](https://www.researchgate.net/profile/Brian_Krauth/publication/228654123_Bounding_a_Linear_Causal_Effect_Using_Relative_Correlation_Restrictions/links/00b49535accb54fa6e000000/Bounding-a-Linear-Causal-Effect-Using-Relative-Correlation-Restrictions.pdf)
+
+[Octover 2006 (Joint Statistical Meetings presentation)][http://www.sfu.ca/~bkrauth/papers/cmu.pdf}
+
+
+
