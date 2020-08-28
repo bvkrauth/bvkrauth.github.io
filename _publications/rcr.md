@@ -32,4 +32,5 @@ of conventional estimates to plausible deviations from exogeneity. Two empirical
 demonstrate the potential usefulness of this method for both experimental and observational
 data.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+NOTE: The DOI link above is currently broken, but you can obtain the correct journal page
+[here](https://www.degruyter.com/view/journals/jem/5/1/article-p117.xml).
