@@ -18,5 +18,3 @@ in uptake of the funds on behalf of Aboriginal students over the last decade. We
 results of an evaluation study that measured the effects of supplementary funding on test score
 gains between grades 4 and 7. The study found that the funding supplement substantially improved 
 the reading scores of the average Aboriginal student.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
