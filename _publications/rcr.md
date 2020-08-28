@@ -45,7 +45,7 @@ Previous versions:
 
 [September 2007 (ResearchGate)](https://www.researchgate.net/profile/Brian_Krauth/publication/228654123_Bounding_a_Linear_Causal_Effect_Using_Relative_Correlation_Restrictions/links/00b49535accb54fa6e000000/Bounding-a-Linear-Causal-Effect-Using-Relative-Correlation-Restrictions.pdf)
 
-[Octover 2006 (Joint Statistical Meetings presentation)](http://www.sfu.ca/~bkrauth/papers/cmu.pdf}
+[October 2006 (Joint Statistical Meetings presentation)](http://www.sfu.ca/~bkrauth/papers/cmu.pdf}
 
 
 
