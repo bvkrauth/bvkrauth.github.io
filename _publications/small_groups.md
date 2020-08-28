@@ -25,3 +25,7 @@ the social group as well as its strength of influence. Brief applications on you
 and retirement planning demonstrate the implications of these results for applied work.
 
 JEL classification: Z13, D00
+
+Previous versions:
+
+[August 2003](http://www.sfu.ca/~bkrauth/papers/smalltheory.pdf)
