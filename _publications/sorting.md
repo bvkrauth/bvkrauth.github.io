@@ -35,3 +35,8 @@ results from both approaches indicate that the variance of test scores is relate
 home language and parental education, but not to sorting by income. Our results also suggest that
 reducing sorting would have little effect on inequality of outcomes in the typical Alberta community,
 but would have substantial effects in the larger cities.
+
+Previous versions:
+
+[March 2007](http://www.sfu.ca/~bkrauth/papers/sorting.pdf)
+
