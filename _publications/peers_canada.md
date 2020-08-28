@@ -21,5 +21,3 @@ citation: 'Krauth, Brian (2005). &quot;Peer effects and selection effects on smo
  smoke, but that influence is much weaker than is suggested by reduced form models.
  
  JEL classification: C35, I12
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
