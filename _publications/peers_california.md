@@ -21,5 +21,3 @@ both of these features, and estimates its parameters using data on California
 teenagers. Identification is aided by using the influence of observable variables on group
 selection as a proxy for the influence of unobservables. I find that the effect of peer
 smoking on the decision to smoke is much weaker than found in previous studies.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
