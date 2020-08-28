@@ -7,7 +7,7 @@ reported in our 2014 CPP paper."
 date: 2011-06-01
 venue: 'Canadian Journal of Speech-Language Pathology and Audiology'
 paperurl: 'https://ldatschool.ca/wp-content/uploads/2015/06/CJSLPA_2011_Vol_35_No_02_Summer.pdf#page=90'
-citation: 'Battisti, Michele, Mark Campbell, Jane Friesen and Brian Krauth (2014). &quot;Non-standard English
+citation: 'Battisti, Michele, Mark Campbell, Jane Friesen and Brian Krauth (2011). &quot;Non-standard English
 dialects and the effect of supplementary funding on educational achievement.&quot; 
 <i>Canadian Journal of Speech-Language Pathology and Audiology</i>. 35(2).'
 ---
