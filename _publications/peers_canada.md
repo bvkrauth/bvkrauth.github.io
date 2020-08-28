@@ -21,3 +21,9 @@ citation: 'Krauth, Brian (2005). &quot;Peer effects and selection effects on smo
  smoke, but that influence is much weaker than is suggested by reduced form models.
  
  JEL classification: C35, I12
+
+Previous versions:
+
+[January 2004](http://www.sfu.ca/~bkrauth/papers/cansmoke.pdf)
+
+[January 2003](https://www.researchgate.net/profile/Brian_Krauth/publication/24128087_Peer_effects_and_selection_effects_in_youth_smoking/links/00b49535accb677cbb000000/Peer-effects-and-selection-effects-in-youth-smoking.pdf)
