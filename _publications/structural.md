@@ -19,5 +19,3 @@ correlation in observable and unobservable characteristics between peers. The st
 approach has been applied to estimating close friend peer effects in Canada, California,
 and the USA in general. In all three settings, I find that close friend smoking is
 substantially less influential than is generally found by previous studies.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
