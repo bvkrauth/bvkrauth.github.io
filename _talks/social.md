@@ -2,8 +2,8 @@
 title: "Social interactions, thresholds, and unemployment in neighborhoods"
 collection: publications
 permalink: /publication/social
-excerpt "This paper establishes a stylized fact about unemployment in U.S. urban neighborhoods:
-the relationship between average human capital and the unemployment rate in a given neighborhood
+excerpt "This paper establishes a stylized fact about unemployment in U.S. urban 
+neighborhoods - the relationship between average human capital and the unemployment rate in a given neighborhood
 is highly nonlinear. Specifically, the predicted unemployment rate for a neighborhood
 increases dramatically when the fraction of neighborhood residents with college degrees
 falls below twenty percent. This pattern appears across all of the major U.S. cities. I then
