@@ -16,3 +16,14 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% include base_path %}
+
+## Resting papers
+
+These are old papers that were never published but have a few
+citations out there.
+
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
