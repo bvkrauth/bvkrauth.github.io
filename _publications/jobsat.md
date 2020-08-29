@@ -1,7 +1,7 @@
 ---
 title: "Job satisfaction and co‐worker pay in Canadian firms"
 collection: publications
-permalink: /publication/job_satisfaction
+permalink: /publication/jobsat
 excerpt: "One reason to be concerned about income inequality is the idea that people care about not only
 their own absolute income but also their income relative to various reference groups (co‐workers,
 friends, neighbours, relatives, etc.). We use Canadian linked employer–employee data to estimate
