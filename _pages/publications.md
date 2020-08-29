@@ -17,12 +17,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% include base_path %}
-
 ## Resting papers
 
 These are old papers that were never published but have a few
 citations out there.
+
+{% include base_path %}
 
 {% for post in site.talks reversed %}
   {% include archive-single.html %}
