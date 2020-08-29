@@ -190,6 +190,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  unpublished:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -252,6 +255,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: single #used to be talk
+      author_profile: true
+      share: true
+  # _unpublished
+  - scope:
+      path: ""
+      type: unpublished
     values:
       layout: single #used to be talk
       author_profile: true
