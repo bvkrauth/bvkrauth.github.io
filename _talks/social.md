@@ -1,6 +1,6 @@
 ---
 title: "Social interactions, thresholds, and unemployment in neighborhoods"
-collection: talks
+collection: publications
 type: "Talk"
 permalink: /talks/social
 venue: 'Unpublished'
