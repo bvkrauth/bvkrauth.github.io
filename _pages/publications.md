@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications and working papers
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,13 +15,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Resting papers
-
-These are old papers that were never published but have a few
-citations out there.
-
-{% include base_path %}
-
-{% for post in site.unpublished reversed %}
-  {% include archive-single.html %}
-{% endfor %}
