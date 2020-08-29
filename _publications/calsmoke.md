@@ -1,7 +1,7 @@
 ---
 title: "Peer and selection effects on youth smoking in California"
 collection: publications
-permalink: /publication/peers_california
+permalink: /publication/calsmoke
 excerpt: "Previous research has found that youth smoking choices are strongly influenced by peer
 smoking. However, these studies often fail to account for simultaneity and nonrandom peer
 selection. This article describes an equilibrium model of peer effects that incorporates

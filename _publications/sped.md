@@ -1,7 +1,7 @@
 ---
 title: "Disabled peers and academic achievement"
 collection: publications
-permalink: /publication/disabled_peers
+permalink: /publication/sped
 excerpt: "We use data on students in grades 4–7 in the Canadian province of British Columbia to
 investigate the effect of having disabled peers on value-added exam outcomes. Longitudinal
 data for multiple cohorts of students are used together with school-by-grade-level fixed

@@ -1,7 +1,7 @@
 ---
 title: "Sorting, peers, and achievement of Aboriginal students in British Columbia"
 collection: publications
-permalink: /publication/aboriginal_bc
+permalink: /publication/aboriginal_peers
 excerpt: "We examine the contribution of differences in school environments to the gap in education outcomes between Aboriginal
 and non‐Aboriginal students. We find both substantial school‐level segregation of Aboriginal and non‐Aboriginal students
 and a substantial gap in test scores. Conventional achievement gap decompositions attribute roughly half of the grade 7

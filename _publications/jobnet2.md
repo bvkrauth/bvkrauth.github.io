@@ -1,7 +1,7 @@
 ---
 title: "A dynamic model of job networking and persistent inequality"
 collection: publications
-permalink: /publication/dynamic2
+permalink: /publication/jobnet2
 excerpt: "Although it rarely appears in economic models, job networking is a common feature of
 labour market behaviour. This paper develops a model of the macroeconomic implications
 of job networking for the behaviour of employment rates in an economy or community. I

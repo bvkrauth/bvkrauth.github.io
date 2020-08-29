@@ -1,7 +1,7 @@
 ---
 title: "A dynamic model of job networking and social influences on employment"
 collection: publications
-permalink: /publication/dynamic
+permalink: /publication/jobnet
 excerpt: "This paper explores an economy in which personal connections facilitate job search. In
 the model, a firm receives information on the productivity of those job applicants with
 social ties to its current employees. In addition to providing a theory of networking,

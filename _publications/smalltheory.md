@@ -1,7 +1,7 @@
 ---
 title: "Social interactions in small groups"
 collection: publications
-permalink: /publication/small_groups
+permalink: /publication/smalltheory
 excerpt: "In the well-known ‘critical mass’ model of social interactions, aggregate
 behaviour exhibits multiple equilibria if the influence of group behaviour on individual
 behaviour exceeds some fairly high threshold. I demonstrate that this property depends
