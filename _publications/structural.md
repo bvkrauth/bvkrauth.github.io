@@ -2,10 +2,9 @@
 title: "Structural estimation of peer effects in youth smoking"
 collection: publications
 permalink: /publication/structural
-excerpt: "This chapter in a conference volume summarizes the research results
-reported in my 2005 Canadian Journal of Economics article, my 2006 Journal of
-Econometrics article, and my 2007 Journal of Business and Economic Statistics
-article."
+excerpt: "This chapter in a conference volume provides an overview for 
+a somewhat more general audience of my research (published elsewhere) 
+using simulation-based methods to measure peer effects in youth smoking."
 date: 2005-08-05
 venue: 'Advances in health economics and health services research'
 paperurl: 'https://www.emerald.com/insight/content/doi/10.1016/S0731-2199(05)16009-9/full/html'
