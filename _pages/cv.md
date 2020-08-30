@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
+[Full CV (PDF)](https://bvkrauth.github.io/files/krauth_cv.pdf)
+
 {% include base_path %}
 
 Education
