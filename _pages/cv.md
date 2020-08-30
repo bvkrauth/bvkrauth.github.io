@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[Full CV (PDF)](https://bvkrauth.github.io/files/krauth_cv.pdf)
+[Full CV (PDF)](https://bvkrauth.github.io/files/krauth_vita.pdf)
 
 {% include base_path %}
 
