@@ -13,7 +13,7 @@ This framework is then used to clarify identification and interpretation of
 commonly-used peer effect models and to suggest avenues for improving upon them."
 date: 2020-08-01
 venue: 'Working paper'
-paperurl: 'http://bvkrauth.github.io/files/peertreat.pdf'
+paperurl: 'http://www.sfu.ca/~bkrauth/papers/peertreat.pdf'
 citation: 'Krauth, Brian (2020). &quot;Peers as treatments.&quot; Working paper, Simon Fraser University.'
 ---
 Models of social interactions are often estimated under the strong
@@ -27,8 +27,6 @@ This framework is then used to clarify identification and interpretation of
 commonly-used peer effect models and to suggest avenues for improving upon them.
 
 Previous versions:
-
-[March 2011 - may be updated](http://www.sfu.ca/~bkrauth/papers/peertreat.pdf)
 
 [March 2011 (CESG)](https://www.ryerson.ca/cesg2011/krauth.pdf)
 
