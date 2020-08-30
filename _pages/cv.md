@@ -39,4 +39,8 @@ Teaching
   
 Service and leadership
 ======
-* SFU faculty Senate, 2019-present
+* Faculty Senator, 2019-2022
+* Chair, Senate Policy Committee on Scholarships and Bursaries, 2019-2021.
+* Acting Department Chair, 2020-2021.
+* Department Chair, 2016-2019.
+* Undergraduate Program Chair, 2008-2011.
