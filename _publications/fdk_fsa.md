@@ -1,5 +1,5 @@
 ---
-title: "The effect of full-day Kindergarten on student achievement"
+title: "The effect of universal full-day Kindergarten on student achievement"
 collection: publications
 permalink: /publication/fdk_fsa
 excerpt: "We estimate the effect of introducing universal full-day Kindergarten (FDK) on subsequent
@@ -10,7 +10,7 @@ a difference-in-differences research design. Our point estimates for the average
 FDK on achievement are mostly positive, occasionally statistically significant, and always
 small. The effect is substantially larger among students who speak English as a second
 language, a result that is consistent with prior findings."
-date: 2020-06-01
+date: 2022-01-28
 venue: 'Working paper'
 citation: 'Friesen, Jane, Brian Krauth, and Ricardo Meilman Cohn (2020). &quot;The effect of full-day Kindergarten on student achievement.&quot; Working paper, Simon Fraser University.'
 ---
