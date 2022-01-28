@@ -23,4 +23,6 @@ FDK on achievement are mostly positive, occasionally statistically significant, 
 small. The effect is substantially larger among students who speak English as a second
 language, a result that is consistent with prior findings.
 
-This paper is not available online, please email me at bkrauth@sfu.ca if you would like a copy.
+Drafts available:
+
+[January 2022 (PDF)](https://bvkrauth.github.io/files/FDKTestScores220128.pdf)
