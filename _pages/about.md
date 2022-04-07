@@ -18,4 +18,4 @@ education, including classroom peer effects, full-day Kindergarten, and language
 
 I teach applied econometrics, labo(u)r economics, and macroeconomics.
 
-During the 2020-21 academic year, I am serving as Acting Chair of the economics department.
+I am on study leave during the 2022 calendar year.
