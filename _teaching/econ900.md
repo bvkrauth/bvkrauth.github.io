@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate seminar"
 permalink: /teaching/econ900
 venue: "Simon Fraser University, Economics Department"
-date: 2020-09-01
+date: 2021-05-01
 location: "Burnaby, BC, Canada"
 ---
 
@@ -12,4 +12,4 @@ In the summer term following the completion of a PhD student's theory comprehens
 
 [Course outline](http://www.sfu.ca/outlines.html?2020/fall/econ/900/g100)
 
-Taught Fall 2020, Spring 2021, and Summer 2021.
+Also taught Fall 2020 and Spring 2021.

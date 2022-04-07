@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergaduate"
 permalink: /teaching/econ381
 venue: "Simon Fraser University, Economics Department"
-date: 2019-09-01
+date: 2021-09-01
 location: "Burnaby, BC, Canada"
 ---
 
