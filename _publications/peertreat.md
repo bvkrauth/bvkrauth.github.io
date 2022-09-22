@@ -27,10 +27,11 @@ This framework is then used to clarify identification and interpretation of
 commonly-used peer effect models and to suggest avenues for improving upon them.
 
 Current version:
-[September 2022]('https://bvkrauth.github.io/files/peertreat220922.pdf'
+[September 2022](https://bvkrauth.github.io/files/peertreat220922.pdf)
 
 Previous versions:
 
 [August 2020](http://www.sfu.ca/~bkrauth/papers/peertreat.pdf)
+
 [March 2011 (CESG)](https://www.ryerson.ca/cesg2011/krauth.pdf)
 
