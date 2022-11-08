@@ -24,4 +24,4 @@ smoking on the decision to smoke is much weaker than found in previous studies.
 
 Previous versions:
 
-[March 2004](http://www.sfu.ca/~bkrauth/papers/calsmoke.pdf)
+[March 2004](https://www.sfu.ca/~bkrauth/papers/calsmoke.pdf)

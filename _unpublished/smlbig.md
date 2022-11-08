@@ -6,7 +6,7 @@ permalink: /unpublished/smlbig
 venue: 'Unpublished'
 date: 2004-08-01
 location: "Burnaby, BC Canada"
-paperurl: 'http://www.sfu.ca/~bkrauth/papers/smlbig.pdf'
+paperurl: 'https://www.sfu.ca/~bkrauth/papers/smlbig.pdf'
 citation: 'Krauth, Brian (2004). &quot;Maximum likelihood estimation of social interaction effects with nonrandom group selection.&quot; <i>Working paper</i>.'
 excerpt: "This paper derives a maximum likelihood estimator for an econometric model of
 discrete choice with social interaction effects. Endogenous selection of

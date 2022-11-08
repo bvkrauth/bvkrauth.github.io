@@ -6,7 +6,7 @@ permalink: /unpublished/social
 venue: 'Unpublished'
 date: 2000-12-20
 location: "Burnaby, BC Canada"
-paperurl: 'http://www.sfu.ca/~bkrauth/papers/social.pdf'
+paperurl: 'https://www.sfu.ca/~bkrauth/papers/social.pdf'
 citation: 'Krauth, Brian (2000). &quot;Social interactions, thresholds, and unemployment in neighborhoods.&quot; <i>Working paper</i>.'
 excerpt: "This paper establishes a stylized fact about unemployment in U.S. urban 
 neighborhoods: the relationship between average human capital and the unemployment rate in a given neighborhood
@@ -27,7 +27,7 @@ evaluate “epidemic” and “sorting” explanations for this stylized fact
 
 Previous versions:
 
-[March 2000 (SFU Discussion Paper 00-12)](http://www.sfu.ca/econ-research/RePEc/sfu/sfudps/dp00-12.pdf)
+[March 2000 (SFU Discussion Paper 00-12)](https://www.sfu.ca/econ-research/RePEc/sfu/sfudps/dp00-12.pdf)
 
 [November 1999](https://core.ac.uk/download/pdf/7354876.pdf)
 

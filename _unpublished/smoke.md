@@ -6,7 +6,7 @@ permalink: /unpublished/smoke
 venue: 'Unpublished'
 date: 2001-08-10
 location: "Burnaby, BC Canada"
-paperurl: 'http://www.sfu.ca/~bkrauth/papers/smoke.pdf'
+paperurl: 'https://www.sfu.ca/~bkrauth/papers/smoke.pdf'
 citation: 'Krauth, Brian (2001). &quot;Peers and prices: Explaining the black-white youth smoking gap.&quot; <i>Working paper</i>.'
 excerpt: "In 1976, black and white teenagers in the United States were about equally
 likely to be cigarette smokers. By the early 1990's, the smoking rate of black

@@ -28,7 +28,7 @@ other disabilities is also small and statistically insignificant but varies in s
 
 Previous versions:
 
-[May 2009](http://www.sfu.ca/~friesen/Disabled%20Peers_final_version.pdf)
+[May 2009](https://www.sfu.ca/~friesen/Disabled%20Peers_final_version.pdf)
 
 [April 2008 (SOLE presentation)](https://www.researchgate.net/profile/Brian_Krauth/publication/247712669_Disabled_Peers_and_Academic_Achievement/links/00b49535accb3c83e5000000.pdf)
 

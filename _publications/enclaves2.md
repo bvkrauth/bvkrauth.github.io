@@ -16,5 +16,3 @@ far above what random distribution would produce. In general, the characteristic
 known to matter to educational outcomes. This article describes some results of a study of how students
 with different home languages affect each other’s learning and whether the phenomenon of “enclave”
 schools plays an important role in achievement.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)

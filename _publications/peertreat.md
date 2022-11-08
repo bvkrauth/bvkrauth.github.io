@@ -31,7 +31,7 @@ Current version:
 
 Previous versions:
 
-[August 2020](http://www.sfu.ca/~bkrauth/papers/peertreat.pdf)
+[August 2020](https://www.sfu.ca/~bkrauth/papers/peertreat.pdf)
 
 [March 2011 (CESG)](https://www.ryerson.ca/cesg2011/krauth.pdf)
 

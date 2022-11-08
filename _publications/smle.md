@@ -30,6 +30,6 @@ that previous studies dramatically overstate peer influence.
 
 Previous versions:
 
-[July 2004](http://www.sfu.ca/~bkrauth/papers/smle.pdf)
+[July 2004](https://www.sfu.ca/~bkrauth/papers/smle.pdf)
 
 [November 2001](https://econ.ucalgary.ca/sites/econ.ucalgary.ca/files/small.pdf)

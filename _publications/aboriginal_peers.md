@@ -24,7 +24,7 @@ Aboriginal students.
 
 Previous versions:
 
-[August 2009](http://www.sfu.ca/~friesen/aboriginal_peers.pdf)
+[August 2009](https://www.sfu.ca/~friesen/aboriginal_peers.pdf)
 
-[April 2009](http://www.csls.ca/events/cea2009/friesen-krauth.pdf)
+[April 2009](https://www.csls.ca/events/cea2009/friesen-krauth.pdf)
 

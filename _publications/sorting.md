@@ -38,5 +38,5 @@ but would have substantial effects in the larger cities.
 
 Previous versions:
 
-[March 2007](http://www.sfu.ca/~bkrauth/papers/sorting.pdf)
+[March 2007](https://www.sfu.ca/~bkrauth/papers/sorting.pdf)
 

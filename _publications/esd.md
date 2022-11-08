@@ -24,6 +24,6 @@ a sizable positive effect of ESD on grade seven reading achievement among Aborig
 
 Earlier versions:
 
-[May 2010](http://www.csls.ca/events/cea2010/paper-cea-friesen.pdf)
+[May 2010](https://www.csls.ca/events/cea2010/paper-cea-friesen.pdf)
 
-[August 2009](http://www.sfu.ca/~friesen/BC_ESD.pdf)
+[August 2009](https://www.sfu.ca/~friesen/BC_ESD.pdf)

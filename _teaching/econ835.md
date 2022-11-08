@@ -10,7 +10,7 @@ location: "Burnaby, BC, Canada"
 
 An introduction to econometric theory. Applications of econometric methods to both time series and cross-section data. 
 
-[Course outline](http://www.sfu.ca/outlines.html?2017/fall/econ/835/g100)
+[Course outline](https://www.sfu.ca/outlines.html?2017/fall/econ/835/g100)
 
 [Canvas page (requires login)](https://canvas.sfu.ca/courses/34088/assignments/syllabus)
 

@@ -11,6 +11,6 @@ location: "Burnaby, BC, Canada"
 The principal elements of theory concerning money and income, distribution, social accounts, public finance, international trade, comparative systems, and development and growth.
 
 
-[Course outline](http://www.sfu.ca/outlines.html?2018/fall/econ/105/d100)
+[Course outline](https://www.sfu.ca/outlines.html?2018/fall/econ/105/d100)
 
 Also taught in Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2015, Spring 2016, and Spring 2018.
