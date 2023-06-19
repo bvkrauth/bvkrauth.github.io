@@ -17,5 +17,3 @@ my colleague Jane Friesen uses administrative data from British Columbia to inve
 education, including classroom peer effects, full-day Kindergarten, and language interventions. 
 
 I teach applied econometrics, labo(u)r economics, and macroeconomics.
-
-I am on study leave during the 2022 calendar year.
