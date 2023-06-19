@@ -13,8 +13,8 @@ language, a result that is consistent with prior findings."
 date: 2022-01-28
 venue: 'Working paper'
 paperurl: 'https://bvkrauth.github.io/publication/fdk_fsa'
-citation: 'Friesen, Jane, Brian Krauth, and Ricardo Meilman Cohn (2022). &quot;The effect of full-day Kindergarten 
-on student achievement.&quot; Working paper, Simon Fraser University.' 
+citation: 'Friesen, Jane, Brian Krauth, and Ricardo Meilman Cohn (2022). &quot;The effect of 
+universal full-day Kindergarten on student achievement.&quot; Working paper, Simon Fraser University.' 
 ---
 We estimate the effect of introducing universal full-day Kindergarten (FDK) on subsequent
 Grade 4 test scores. The data are from the Canadian province of British Columbia, 
