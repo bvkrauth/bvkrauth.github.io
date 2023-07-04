@@ -17,7 +17,7 @@ somewhat by socioeconomic status, but we find no evidence that they vary
 substantially by schooling mode."
 date: 2023-06-30
 venue: 'Working paper'
-paperurl: 'https://bvkrauth.github.io/publication/covidmh/covidmh-jun2023'
+paperurl: 'https://bvkrauth.github.io/publication/covidmh'
 citation: "Friesen, Jane, Brian Krauth, and Brett Wilmer (2023). &quot;COVID-19 and the Mental Health of Adolescents in British Columbia.&quot; Working paper, Simon Fraser University."
 ---
 We use linked individual-level data on school enrollment, physician services
@@ -33,3 +33,6 @@ increases in treatment for ADHD.  In contrast, boys show no change or even
 reductions in treatment for most mental health conditions. These effects vary
 somewhat by socioeconomic status, but we find no evidence that they vary
 substantially by schooling mode.
+
+Current version:
+[June 2023](https://bvkrauth.github.io/publication/covidmh/covidmh-jun2023.pdf)
