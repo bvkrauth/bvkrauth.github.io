@@ -35,4 +35,4 @@ somewhat by socioeconomic status, but we find no evidence that they vary
 substantially by schooling mode.
 
 Current version:
-[June 2023](https://bvkrauth.github.io/publication/covidmh/covidmh-jun2023.pdf)
+[June 2023](https://bvkrauth.github.io/files/covidmh-jun2023.pdf)
