@@ -18,7 +18,7 @@ substantially by schooling mode."
 date: 2023-06-30
 venue: 'Working paper'
 paperurl: 'https://bvkrauth.github.io/publication/covidmh'
-citation: "Friesen, Jane, Brian Krauth, and Brett Wilmer (2023). &quot;COVID-19 and the Mental Health of Adolescents in British Columbia.&quot; Working paper, Simon Fraser University."
+citation: "Friesen, Jane, Brian Krauth, and Brett Wilmer (2023). &quot;COVID-19 and the Mental Health of Adolescents in British Columbia.&quot; (EdWorkingPaper: 23-805)."
 ---
 We use linked individual-level data on school enrollment, physician services
 received, and prescription medications to measure the effect of the COVID-19
@@ -35,4 +35,4 @@ somewhat by socioeconomic status, but we find no evidence that they vary
 substantially by schooling mode.
 
 Current version:
-[June 2023](https://bvkrauth.github.io/files/covidmh-jun2023.pdf)
+[June 2023](https://www.edworkingpapers.com/ai23-805)
