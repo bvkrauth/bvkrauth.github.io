@@ -19,7 +19,7 @@ status, but we find no evidence that they vary substantially by schooling mode."
 date: 2024-03-20
 venue: 'Canadian Public Policy'
 paperurl: 'https://utpjournals.press/doi/abs/10.3138/cpp.2023-024'
-citation: 'Friesen, Jane, Brian Krauth, and Brett Wilmer (2023). &quot;COVID-19
+citation: 'Friesen, Jane, Brian Krauth, and Brett Wilmer (2024). &quot;COVID-19
 and the Mental Health of Adolescents in British Columbia.&quot; 
 <i>Canadian Public Policy</i>. Forthcoming.'
 ---
