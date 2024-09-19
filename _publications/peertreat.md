@@ -15,7 +15,7 @@ practice."
 date: 2024-05-28
 venue: 'Working paper'
 paperurl: 'https://bvkrauth.github.io/publication/peertreat'
-citation: 'Krauth, Brian (2023). &quot;Peers as treatments.&quot; Working paper, Simon Fraser University.'
+citation: 'Krauth, Brian (2024). &quot;Peers as treatments.&quot; Working paper, Simon Fraser University.'
 ---
 This paper develops a general framework for interpreting linear regression estimates
 of contextual peer effects under random or conditionally random peer assignment.
