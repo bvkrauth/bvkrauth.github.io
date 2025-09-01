@@ -21,7 +21,7 @@ Education
 Employment
 ======
 * 2006-present: Associate Professor of Economics, Simon Fraser University
-  * Acting Chair, 2020-21
+  * Acting Chair, 2020-2021, 2025-2026.
   * Chair, 2016-2019
 * 1999-2006: Assistant Professor of Economics, Simon Fraser University
 
@@ -41,6 +41,6 @@ Service and leadership
 ======
 * Faculty Senator, 2019-2022
 * Chair, Senate Policy Committee on Scholarships and Bursaries, 2019-2022.
-* Acting Department Chair, 2020-2021.
+* Acting Department Chair, 2020-2021, 2025-2026.
 * Department Chair, 2016-2019.
 * Undergraduate Program Chair, 2008-2011.
